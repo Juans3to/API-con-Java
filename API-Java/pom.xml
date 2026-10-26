@@ -21,7 +21,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>26</maven.compiler.release>
-        <exec.mainClass>com.mycompany.api.con.java.ApiJava</exec.mainClass>
+        <exec.mainClass>main.ApiJava</exec.mainClass>
     </properties>
     <name>API-Java</name>
 </project>
